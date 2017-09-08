@@ -1,0 +1,3 @@
+This directory contains my Jupyter notebook and final report for my SmartCab project in Udacity's Machine Learning Engineer Nanodegree
+
+The Smartcab uses a Reinforcement Learning technique, Q-learning, to train a SmartCab to navigate traffic to reach it's destination 
